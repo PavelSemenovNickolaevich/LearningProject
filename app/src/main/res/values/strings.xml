@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LearningProject</string>
+
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="avatar">Avatar</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="name">Имя</string>
+    <string name="name2">Фамилия</string>
+    <string name="name3">Отчество</string>
+    <string name="done">Готово</string>
+</resources>
